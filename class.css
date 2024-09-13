@@ -1,0 +1,18 @@
+div{
+    background-color: aqua;
+}
+div p{
+    background: rebeccapurple;
+}
+div span{
+    background-color: blue;
+    font-size: 40px;
+   
+}
+div + span{
+    background-color: brown;
+}
+span + section{
+    background-color: black;
+    color: antiquewhite;
+}

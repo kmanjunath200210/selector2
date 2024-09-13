@@ -1,0 +1,14 @@
+div{
+    background-color: rgb(8, 134, 128);
+}
+div p{
+    background-color: red;
+
+}
+div + span{
+    background-color: black;
+    color: white;
+}
+div > p{
+    background-color: blue;
+}
